@@ -82,6 +82,6 @@ Released under the MIT license
 https://opensource.org/license/mit
 
 # さいごに
-MITライセンスなのでほぼ自由に使えますが、このツールを活用した作品をニコニコに投稿した際には、ぜひ配布動画(https://www.nicovideo.jp/watch/sm43905931)の親作品登録をお願いします。sdPBR開発者のサンドマン氏に、大変感謝します。
+MITライセンスなのでほぼ自由に使えますが、このツールを活用した作品をニコニコに投稿した際には、ぜひ配布動画(https://www.nicovideo.jp/watch/sm43905931 )の親作品登録をお願いします。sdPBR開発者のサンドマン氏に、大変感謝します。
 
 2024/08/05 ver 0.1 
